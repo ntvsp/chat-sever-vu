@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index",
-    "start": "node index"
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -16,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/ntvsp/chat-sever-vu/issues"
   },
-  "homepage": "https://github.com/ntvsp/chat-sever-vu#readme",
-  "engines": {
-    "node": "12.x"
-  }
+  "homepage": "https://github.com/ntvsp/chat-sever-vu#readme"
 }
