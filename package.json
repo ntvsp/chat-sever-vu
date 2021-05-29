@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ntvsp/chat-sever-vu#readme",
   "engines": {
-    "node": "16.x"
+    "node": "12.x"
   }
 }
